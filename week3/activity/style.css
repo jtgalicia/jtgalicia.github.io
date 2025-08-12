@@ -1,0 +1,86 @@
+.head1{
+    text-align: end;
+    color: white;
+    font-family: Arial;
+}
+
+.head2{
+    text-align: center;
+    color: red;
+    font-family: Arial;
+}
+
+body{
+    background-color: #16365d;
+    font-family: Arial;
+}
+
+.line1{
+    color: red;
+    font-family: Arial;
+}
+
+.line2{
+    color: rgb(240, 8, 190);
+    font-family: Arial;
+}
+
+.head3{
+    color: white;
+    background-color: black;
+    width: 25%;
+    font-family: Arial;
+}
+
+.head4{
+    color: rgb(26, 235, 19);
+    font-size: 19px;
+    font-family: Arial;
+}
+
+.part6{
+    color: white;
+    background-color: black;
+    font-family: Arial;
+}
+
+.u3{
+    color: yellow;
+    font-size: 16px;
+    font-family: Arial;
+}
+
+.part7{
+    color: white;
+    background-color: red;
+    font-family: Arial;
+}
+
+.u1{
+    color: red;
+}
+
+.u2{
+    color: yellow;
+}
+
+.s3{
+    color: blue;
+}
+
+.s4{
+    color: rgb(16, 245, 16);
+}
+
+.s5{
+    color: blue;
+}
+
+.s6{
+    color: red;
+}
+
+.s7{
+    color: black;
+    background-color: rgb(15, 241, 15);
+}
