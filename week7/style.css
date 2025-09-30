@@ -1,0 +1,41 @@
+.myrow1 {
+    background-color: #212529;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+    margin: 10px;
+}
+
+.col-3 {
+    display: flex;
+}
+
+.btn{
+    margin: 10px;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+.p2{
+    color: black;
+}
+
+.mycf2{
+    background-color: #e2e3e5;
+}
+
+.intp{
+    display: flex;
+}
+
+.mycf3{
+    margin-left: 200px;
+    margin-top: 200px;
+}
